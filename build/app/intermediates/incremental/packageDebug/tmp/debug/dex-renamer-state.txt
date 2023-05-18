@@ -1,0 +1,4 @@
+#Thu May 18 16:19:49 WIB 2023
+base.0=D\:\\Oktovan Agung Shailendra\\Documents\\Mata Kuliah\\Pembrograman Mobile\\login_screen\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
