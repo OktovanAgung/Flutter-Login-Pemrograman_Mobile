@@ -62,10 +62,10 @@ Widget Dart, Flutter, dan Flutter.
 
 # Output
 ## Login Page
-<img src="image/login.png">
+<img src="image/login.png" width=50%>
 
 ## Sign Up Page
-<img src="image/signup.png">
+<img src="image/signup.png" width=50%>
 
 ## Reset Password Page
-<img src="image/resetpass.png">
+<img src="image/resetpass.png" width=50%>
