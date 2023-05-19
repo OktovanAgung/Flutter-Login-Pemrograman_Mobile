@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Oktovan Agung Shailendra\\Documents\\Mata Kuliah\\Pembrograman Mobile\\login_screen\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\Oktovan Agung Shailendra\\Documents\\Mata Kuliah\\Pembrograman Mobile\\flutter_login_pemrograman_mobile\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\Oktovan Agung Shailendra\\Documents\\Mata Kuliah\\Pembrograman Mobile\\login_screen\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\Oktovan Agung Shailendra\\Documents\\Mata Kuliah\\Pembrograman Mobile\\flutter_login_pemrograman_mobile\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
